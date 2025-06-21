@@ -1,4 +1,4 @@
-# CodeX Music Bot
+# avon x Music Bot
 
 **A feature-rich Discord music bot with advanced filters, playlist management, and multiple platform support.**
 
@@ -139,13 +139,9 @@ riffyOptions: {
 }
 ```
 
-## Support
-
-Join our Discord server for support: [discord.gg/sV5nAs4NtH](https://https//discord.gg/sV5nAs4NtH)
-
 ## Credits
 
-Created by CodeX Development Team
+Created by CodeX Development Team Modify By Akshay (immortal.ip)
 
 ## License
 
